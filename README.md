@@ -1,4 +1,4 @@
-# Docker Demo
+# Multi Step Docker Demo
 `npm install`
 
 Build steps 
